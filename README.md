@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Bem-vindo(a) ao perfil do Corvonauta 😁
+## Bem-vindo(a) ao perfil do Corvonauta :egg:
 
  <div>
    <a href="https://github.com/Corvonauta-dev">
