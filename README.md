@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 
 ## Bem-vindo(a) ao perfil do Corvonauta :egg:
 
- <div>
+<!-- <div>
    <a href="https://github.com/Corvonauta-dev">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Corvonauta-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Corvonauta-dev&layout=compact&langs_count=6&theme=tokyonight"/>
 
-</div>
+</div>-->
 <div style="display: inline_block"><br>
   <img align="center" alt="Dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
   <img align="center" alt="Godot" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" />
